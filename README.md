@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OscarCurto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![image](https://user-images.githubusercontent.com/44895999/198295825-04a41dc4-8022-46a6-90f7-78d1fa9e6033.png)
